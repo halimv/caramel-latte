@@ -2,8 +2,8 @@
 
 ### ROSALIND Worked Solution
 
-This repository contains worked solutions to the [Rosalind](https://rosalind.info/problems/list-view/) bioinformatics problems.
-Sample Datasets used here are stored in the `datasets` folder
+The [Rosalind repository](https://github.com/halimv/caramel-latte/tree/main/Rosalind) contains worked solutions to the [Rosalind](https://rosalind.info/problems/list-view/) bioinformatics problems.
+Sample Datasets used here are stored in the [datasets](https://github.com/halimv/caramel-latte/tree/main/Rosalind/datasets) folder.
 
 ### Table of Contents
 
