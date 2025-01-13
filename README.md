@@ -1,7 +1,47 @@
 # caramel-latte
 
-# Repository for Bioinformatics Python learning projects
+### ROSALIND Worked Solution
 
+This repository contains worked solutions to the [Rosalind](https://rosalind.info/problems/list-view/) bioinformatics problems.
+Sample Datasets used here are stored in the `datasets` folder
 
-# CREDIT: 
-# Drug Discovery Project Guidance by Data Professor on YouTube
+### Table of Contents
+
+| Notebook Name  | Problem Description                               |
+| -------------- | --------------------------------------------------|  
+| ID             | Counting DNA Nucleotides                          |
+| RNA            | Transcribing DNA into RNA                         |
+| REVC           | Complementing a Strand of DNA                     |
+| FIB            | Rabbits and Recurrence Relations                  |
+| GC             | Computing GC Content                              |
+| HAMM           | Computing Point Mutations                         |
+| PROT           | Translating RNA into Protein                      |
+| SUBS           | Finding a Motif in DNA                            |
+| FIBD           | Mortal Fibonacci Rabbits                          |
+| IEV            | Calculating Expected Offspring                    |
+| LIA            | Independent Alleles                               |
+| PERM           | Enumerating Gene Orders                           |
+| CONS           | Consensus and Profile                             |
+| GRPH           | Overlap Graphs                                    |
+| LCSM           | Finding a Shared Motif                            |
+| MPRT           | Finding a Protein Motif                           |
+| MRNA           | Inferring mRNA from Protein                       |
+| ORF            | Open Reading Frames                               |
+| PRTM           | Calculating Protein Mass                          |
+| REVP           | Locating Restriction Sites                        |
+| SPLC           | RNA Splicing                                      |
+| LEXF           | Enumerating k-mers Lexicographically              |
+| LGIS           | Longest Increasing Subsequence                    |
+| LONG           | Genome Assembly as Shortest Superstring           |
+| PMCH           | Perfect Matchings and RNA Secondary Structures    |
+| PPER           | Partial Permutations                              |
+| PROB           | Introduction to Random Strings                    |
+| SIGN           | Enumerating Oriented Gene Orderings               |
+| SSEQ           | Finding a Spliced Motif                           |
+| TRAN           | Transitions and Transversions                     |
+| TREE           | Completing a Tree                                 |
+| CAT            | Catalan Numbers and RNA Secondary Structures      |
+| CORR           | Error Correction in Reads                         |
+| INOD           | Counting Phylogenic Ancestors                     |
+
+( table is incomplete and will be updated as solutions are added)
