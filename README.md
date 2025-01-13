@@ -10,7 +10,7 @@ Sample Datasets used here are stored in the [datasets](https://github.com/halimv
 | Notebook Name  | Problem Description                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------|  
 | ID             | Counting DNA Nucleotides                                                                                                   |
-| RNA            | [Transcribing DNA into RNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/FIB.ipynb)                          |
+| RNA            | Transcribing DNA into RNA                                                                                                  |
 | REVC           | [Complementing a Strand of DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/REVC.ipynb)                     |
 | FIB            | [Rabbits and Recurrence Relations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/FIB.ipynb)                   |
 | GC             | [Computing GC Content](https://github.com/halimv/caramel-latte/blob/main/Rosalind/GC.ipynb)                                |
