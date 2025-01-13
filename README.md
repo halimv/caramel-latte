@@ -1,6 +1,8 @@
 # caramel-latte
 
-### ROSALIND Worked Solution
+### ROSALIND Worked Solutions
+
+This is a private repository for personal use, to track progress in solving Rosalind problems. 
 
 The [Rosalind repository](https://github.com/halimv/caramel-latte/tree/main/Rosalind) contains worked solutions to the [Rosalind](https://rosalind.info/problems/list-view/) bioinformatics problems.
 Sample Datasets used here are stored in the [datasets](https://github.com/halimv/caramel-latte/tree/main/Rosalind/datasets) folder.
