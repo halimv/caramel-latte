@@ -21,7 +21,7 @@ In some problems, I've included a section going over why I wrote the code the wa
 | HAMM           | [Computing Point Mutations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/HAMM.ipynb)                         |
 | IPRB           | [Mendel's First Law](https://github.com/halimv/caramel-latte/blob/main/Rosalind/IPRB.ipynb)                                |
 | PROT           | [Translating RNA into Protein](https://github.com/halimv/caramel-latte/blob/main/Rosalind/PROT.ipynb)                      |
-| SUBS           | [Finding a Motif in DNA]https://github.com/halimv/caramel-latte/blob/main/Rosalind/SUBS.ipynb                              |
+| SUBS           | [Finding a Motif in DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/SUBS.ipynb)                            |
 | FIBD           | Mortal Fibonacci Rabbits                                                                                                   |
 | IEV            | Calculating Expected Offspring                                                                                             |
 | LIA            | Independent Alleles                                                                                                        |
