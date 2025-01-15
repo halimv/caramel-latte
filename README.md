@@ -13,8 +13,8 @@ In some problems, I've included a section going over why I wrote the code the wa
 
 | Notebook Name  | Problem Description                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------|  
-| ID             | Counting DNA Nucleotides                                                                                                   |
-| RNA            | Transcribing DNA into RNA                                                                                                  |
+| ID             | [Counting DNA Nucleotides](https://github.com/halimv/caramel-latte/blob/main/Rosalind/DNA.ipynb)                           |
+| RNA            | [Transcribing DNA into RNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/RNA.ipynb)                          |
 | REVC           | [Complementing a Strand of DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/REVC.ipynb)                     |
 | FIB            | [Rabbits and Recurrence Relations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/FIB.ipynb)                   |
 | GC             | [Computing GC Content](https://github.com/halimv/caramel-latte/blob/main/Rosalind/GC.ipynb)                                |
