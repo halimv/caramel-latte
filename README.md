@@ -2,7 +2,7 @@
 
 ### ROSALIND Worked Solutions
 
-This is a private repository for personal use, to track progress in solving Rosalind problems. Each notebook has information and datasets obtained from the [Rosalind](https://rosalind.info/problems/list-view/) website. 
+This is a repository for personal use to track my progress in solving Rosalind problems. Each notebook has information and datasets obtained from the [Rosalind](https://rosalind.info/problems/list-view/) website.
 
 The [Rosalind repository](https://github.com/halimv/caramel-latte/tree/main/Rosalind) contains worked solutions to the [Rosalind](https://rosalind.info/problems/list-view/) bioinformatics problems.
 Sample Datasets used here are stored in the [datasets](https://github.com/halimv/caramel-latte/tree/main/Rosalind/datasets) folder.
