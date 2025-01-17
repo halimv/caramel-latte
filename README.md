@@ -7,7 +7,9 @@ This is a repository for personal use to track my progress in solving Rosalind p
 The [Rosalind repository](https://github.com/halimv/caramel-latte/tree/main/Rosalind) contains worked solutions to the [Rosalind](https://rosalind.info/problems/list-view/) bioinformatics problems.
 Sample Datasets used here are stored in the [datasets](https://github.com/halimv/caramel-latte/tree/main/Rosalind/datasets) folder.
 
-In some problems, I've included a section going over why I wrote the code the way I did, potential improvements, and other general thoughts. This can be found towards the end of the notebook. I've highlighted questions that I think have particularly interesting concepts.
+In some problems, I've included a section going over why I wrote the code the way I did, potential improvements, and other general thoughts. This can be found towards the end of the notebook. 
+
+Notebook names that I think have particularly interesting concepts or solutions are highlighted in the table of contents below.
 
 ## Libraries Used 
 biopython, pandas, numpy, re
