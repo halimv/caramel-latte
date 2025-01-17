@@ -1,6 +1,6 @@
 # caramel-latte
 
-### ROSALIND Worked Solutions
+## ROSALIND Worked Solutions
 
 This is a repository for personal use to track my progress in solving Rosalind problems. Each notebook has information and datasets obtained from the [Rosalind](https://rosalind.info/problems/list-view/) website.
 
@@ -9,20 +9,23 @@ Sample Datasets used here are stored in the [datasets](https://github.com/halimv
 
 In some problems, I've included a section going over why I wrote the code the way I did, potential improvements, and other general thoughts. This can be found towards the end of the notebook. I've highlighted questions that I think have particularly interesting concepts.
 
-### Table of Contents
+## Libraries Used 
+biopython, pandas, numpy, re
 
-| Notebook Name    | Problem Description                                                                                                        |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------|  
-| DNA              | [Counting DNA Nucleotides](https://github.com/halimv/caramel-latte/blob/main/Rosalind/DNA.ipynb)                           |
-| RNA              | [Transcribing DNA into RNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/RNA.ipynb)                          |
-| REVC             | [Complementing a Strand of DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/REVC.ipynb)                     |
-| <mark>FIB</mark> | [Rabbits and Recurrence Relations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/FIB.ipynb)                   |
-| GC               | [Computing GC Content](https://github.com/halimv/caramel-latte/blob/main/Rosalind/GC.ipynb)                                |
-| HAMM             | [Computing Point Mutations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/HAMM.ipynb)                         |
-| IPRB             | [Mendel's First Law](https://github.com/halimv/caramel-latte/blob/main/Rosalind/IPRB.ipynb)                                |
-| PROT             | [Translating RNA into Protein](https://github.com/halimv/caramel-latte/blob/main/Rosalind/PROT.ipynb)                      |
-| SUBS             | [Finding a Motif in DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/SUBS.ipynb)                            |
-|<mark>CONS</mark> | [Consensus and Profile](https://github.com/halimv/caramel-latte/blob/main/Rosalind/SUBS.ipynb)                             |
+## Table of Contents
+
+| Notebook Name    | Problem Description                                                                                                        | Concepts                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------|
+| DNA              | [Counting DNA Nucleotides](https://github.com/halimv/caramel-latte/blob/main/Rosalind/DNA.ipynb)                           | Counting occurences of a base                                               |
+| RNA              | [Transcribing DNA into RNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/RNA.ipynb)                          | Replace T with U in a string                                                |
+| REVC             | [Complementing a Strand of DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/REVC.ipynb)                     | Reverse a string and replace T with U                                       |
+| <mark>FIB</mark> | [Rabbits and Recurrence Relations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/FIB.ipynb)                   | Dynamic Programming for Fibonacci Rabbit Problem                            |
+| GC               | [Computing GC Content](https://github.com/halimv/caramel-latte/blob/main/Rosalind/GC.ipynb)                                | From FASTA file, find counts of G and C                                     |
+| HAMM             | [Computing Point Mutations](https://github.com/halimv/caramel-latte/blob/main/Rosalind/HAMM.ipynb)                         | Compare two DNA strings, calculate number of base pair differences          |
+|<mark>IPRB</mark> | [Mendel's First Law](https://github.com/halimv/caramel-latte/blob/main/Rosalind/IPRB.ipynb)                                | Monte Carlo Simulation for probability of at least one dominant allele      |
+| PROT             | [Translating RNA into Protein](https://github.com/halimv/caramel-latte/blob/main/Rosalind/PROT.ipynb)                      | Translate RNA string to amino acid string using                             |
+| SUBS             | [Finding a Motif in DNA](https://github.com/halimv/caramel-latte/blob/main/Rosalind/SUBS.ipynb)                            | Identify locations of a motif                                               |
+|<mark>CONS</mark> | [Consensus and Profile](https://github.com/halimv/caramel-latte/blob/main/Rosalind/SUBS.ipynb)                             | Generate consensus string from a collection of DNA strings                  |
 | FIBD             | Mortal Fibonacci Rabbits                                                                                                   |
 | IEV              | Calculating Expected Offspring                                                                                             |
 | LIA              | Independent Alleles                                                                                                        |
